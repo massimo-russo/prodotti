@@ -1,0 +1,43 @@
+ [  
+     { 
+     "nome": "custodia iphone 11",
+      "prezzo": "Є49.99",
+      "disponibile": "si"
+    },
+    {
+        
+      "nome": "vetrino Lgk40s",
+      "prezzo": "Є9.99",
+      "disponibile": "si"
+    },
+    {
+        
+        "nome": " Lgs40",
+        "prezzo": "Є229.50",
+        "disponibile": "si"
+      },
+    {
+      "prezzo": "Є 29.99",
+      "disponibile": "si",
+      "nome": "tablet android"
+    },
+    {
+      "prezzo": "Є 99.99",
+      "disponibile": "si",
+      "nome": "iPod Touch"
+    },
+    {
+      "prezzo": "Є 399.99",
+      "disponibile": "no",
+      "nome": "iPhone 5"
+    },
+    {
+      "prezzo": "Є 199.99",
+      "disponibile": "si",
+     "nome": "Nexus 7"
+    }
+  ]
+
+
+
+
